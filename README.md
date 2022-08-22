@@ -5,6 +5,7 @@ Junfei Zhang
 This repository is a game designed using java. I used the IntelliJ IDE for development.
 
 Configuration:
+'UML Diagram' is the classes and interfaces illustrated using UML notation.
 The 'src' folder contains all the classes and interfaces of this program. 
 The 'res' folder contains all the resources, including images and initial location of objects. 
 The 'bagel' file is provided by The University of Melbourne, as well as the images.
